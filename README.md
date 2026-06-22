@@ -134,8 +134,6 @@ oracle-etl-automation-pipeline
 │   ├── create_history_table.sql
 │   ├── move_to_history.sql
 │   └── scheduler_job.sql
-│
-└── screenshots
 ```
 
 ---
